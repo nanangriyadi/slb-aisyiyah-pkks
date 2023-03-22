@@ -1,28 +1,21 @@
 
-![image](https://user-images.githubusercontent.com/3053485/223064132-78300921-368c-47fc-935f-770704eba1bd.png)
 
 
 
 
-# pkks_with_admin
+# pkks_slb-aisyiyah
 cara penggunaan :
 1. buka terminal ketikan cp.env.example .env
 2. buka terminal ketikan composer install
 3. lalu buka phpmyadmin->database->database name-> slb5
 4. buka terminal php artisan key:generate
 5. buka terminal php artisan migrate
-6. buka terminal php artisan db:seed
-7. buka terminal php artisan serve
+6. buka terminal php artisan serve
 
 alat yang dubutuhkan:
 1. composer
 2. xammp dengan php8++
 3. gitbash opsional bisa pakai terminal di windows 10/11
-
-username:
-admin@gmail.com
-pasword:
-admin12345
 
 
 Dukung saya ya
