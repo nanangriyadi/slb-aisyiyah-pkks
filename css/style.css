@@ -181,7 +181,7 @@ body {
 /* portofolio */
 /* menu */
 .portofolio {
-  padding: 7rem 7% 1.4rem;
+  padding: 5rem 7% 1.4rem;
 }
 
 .portofolio h2 {
@@ -349,7 +349,7 @@ td {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  padding:120px 7%;
+  padding: 90px 7%;
 }
 
 .contact-us #contact {
