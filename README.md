@@ -17,7 +17,7 @@ alat yang dubutuhkan:
 3. gitbash opsional bisa pakai terminal di windows 10/11
 
 
-Dukung saya ya
+Dukung saya ya, Jangan lupa kasih bintanynga :-)
 
 
 ![image](https://user-images.githubusercontent.com/3053485/218619114-0bab7622-fb41-4008-bac5-34f8fdb35bfd.png)
